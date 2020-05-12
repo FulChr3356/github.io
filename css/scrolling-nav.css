@@ -10,3 +10,12 @@ header {
 section {
   padding: 150px 0;
 }
+@font-face { font-family:"CustomFont"; 
+src: url("fonts/fjallaone-regular-webfont.woff")format("woff");
+}
+
+body {
+  font-family: 'CustomFont';
+  font-weight:normal;
+  font-style:normal;
+  }
